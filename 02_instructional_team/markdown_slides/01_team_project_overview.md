@@ -38,14 +38,14 @@ __Goal:__ To improve your portfolio by showcasing your ability to deliver real-w
 
 ---
 
-# What is a Good Portfolio?
+# Zooming Out - What is a Good Portfolio?
 
 A good portfolio showcases your best work and highlights skills that are highly valued by employers in data science and machine learning. It demonstrates your ability to handle real-world tasks, making you an attractive candidate for employment.
 
 **Personalize Your Portfolio:**
 - **Keep it streamlined:** As you work on your project, ensure that any unused files or folders are deleted to keep your repository clean and professional.
 
-- **Highlight your unique contributions and skills:** This personalization shows employers that you're not just completing assignments but are engaged and innovating on your projects.
+- **Highlight your unique skills:** This personalization shows employers that you're not just completing assignments but are engaged and innovating on your projects.
 
 ---
 
@@ -53,8 +53,8 @@ A good portfolio showcases your best work and highlights skills that are highly 
 
 Choosing the right projects for your portfolio is crucial. Each project should:
 
-- **Solve Real Problems**: Use actual datasets to address genuine issues in your field.
-- **Demonstrate Industry Relevance**: Select projects that are pertinent to your specific area, such as marketing analytics for marketers or predictive maintenance for engineers.
+- **Solve Real Problems with Real Data**: Use actual datasets to address genuine issues.
+- **Demonstrate Industry Relevance**: Select projects that are pertinent to your specific area of interest, such as marketing analytics for marketers or predictive maintenance for engineers.
 - **Provide Actionable Insights**: Focus on projects that deliver clear, practical outcomes that demonstrate your ability to impact real-world scenarios.
 
 These criteria ensure that your projects not only highlight your technical skills but also your understanding of and adaptability to industry-specific challenges, making you a valuable candidate to potential employers.
@@ -62,6 +62,8 @@ These criteria ensure that your projects not only highlight your technical skill
 ---
 
 # Demonstrating Technical and Business Skills
+
+Success in an industry setting requires expertise in both technical and "soft" skills such as communication and presenting your work.
 
 - **Demonstrate Coding Proficiency**: All projects should showcase your ability to write clean, efficient, and well-documented code.
 - **Showcase Communication Skills**: All projects should effectively communicate complex data-driven insights in a non-technical way.
@@ -104,11 +106,21 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 # Developing a Project Plan
 
-1. **Understand the business context**: "We want to increase customer engagement by 10%."
+1. **Understand the business context**
+2. **Identify an opportunity**
+3. **Scope your analysis**
+4. **Develop your solution**
+5. **Present clear results and recommendations**
+
+---
+
+# Developing a Project Plan
+
+1. **Understand the business context**: "We want to increase customer engagement."
 2. **Identify an opportunity**: "Customer segmentation will enable targeted marketing campaigns, which should increase customer engagement."
 3. **Scope your analysis**: "We will use feature engineering to create segments based on purchase history and demographic data."
-4. **Develop your solution**: "We will k-means clustering with Python, and determine the optimal number of clusters using the elbow method."
-5. **Present results and recommendations**: "We predict that applying targeted marketing based on 5 different consumer profiles will increase customer engagement by 10%."
+4. **Develop your solution**: "We will use k-means clustering with Python, and determine the optimal number of clusters using the elbow method."
+5. **Present clear results and recommendations**: "We predict that applying targeted marketing based on 5 different consumer profiles will increase customer engagement by 10%."
 
 ---
 
@@ -118,7 +130,7 @@ Select data types strategically to align with your project's objectives. Ensure 
 2. Identify an opportunity.
 3. Scope your analysis.
 4. Develop your solution.
-5. Present results and recommendations.
+5. Present clear results and recommendations.
 
 ### 📋 To keep in mind:
 
@@ -134,10 +146,16 @@ Select data types strategically to align with your project's objectives. Ensure 
 
 # Project Goals
 
-* **Good Code & Structure** → Code should be well-commented, clean, and follow a logical structure. It should be easy to read and maintain.
-* **Strong Documentation & Presentation** → The README should be clear, well-written, and explain the dataset, findings, and methodology. The project should be easy to understand for both technical and non-technical reviewers.
-* **Application of Module Teachings** → Projects should showcase key technical skills, such as regression modeling, deep learning models, data visualizations, or strong analysis of sampling techniques.
-* **Effective Team Collaboration** → Teams should follow best practices for Git (small commits, branches, pull requests) and actively participate in stand-ups and progress updates.
+1. **Business Relevance** → Your project should address a real problem or opportunity in your chosen industry, and your results should provide concrete recommendations for your stakeholders.
+2. **Good Code & Structure** → Code should be well-commented, clean, and follow a logical structure. It should be easy to read and maintain.
+3. **Strong Documentation & Presentation** → The README should be clear, well-written, and explain the dataset, findings, and methodology. The project should be easy to understand for both technical and non-technical reviewers.
+
+---
+
+# Project Goals
+
+4. **Application of Module Teachings** → Projects should showcase key technical skills, such as regression modeling, deep learning models, data visualizations, or strong analysis of sampling techniques.
+5. **Effective Team Collaboration** → Teams should follow best practices for Git (small commits, branches, pull requests) and actively participate in stand-ups and progress updates.
 
 ---
 
@@ -150,7 +168,7 @@ Your final project will be evaluated on the following criteria:
 
 1. Each team member must have created a pull request, and reviewed and merged a different pull request.
 
-2. (a) For **Data Science** teams, your project must include at least one visualization that presents new insights into the chosen dataset.
+2. (a) For **Data Science** teams, your project must include visualizations that present new insights into the chosen dataset.
 
    (b) For **Machine Learning** teams, your project must include at least one machine learning model that you have developed and implemented to obtain new insights.
 
@@ -193,11 +211,12 @@ After Week 1, you will only be evaluated on your project proposal, which must be
 
 # Project Examples
 
-* [Bank Marketing Campaign](https://github.com/darshan-kale-dsi/Bank-Marketing-Campaign) (Machine Learning)
 * [Customer Purchasing Behaviours](https://github.com/sunshinesharon/Customer-Purchasing-Behaviors) (Data Science)
-* [Stroke Prediction](https://github.com/RuiQianSun/team7) (Machine Learning)
 * [Car Sales Analysis](https://github.com/emailmealoy/Car-Sales-Trend_DS7) (Data Science)
+* [Obesity Estimation](https://github.com/slathwal/obesity-estimation) (Machine Learning)
 * [Insights from Bank Marketing](https://github.com/blackpearl/ML_T7_Bank-Marketing) (Machine Learning)
+* [TTC Streetcar Delay Analysis](https://github.com/namathew7/ds6) (Data Science)
+* [Tomato Disease Predictor](https://github.com/imdwipayana/tomato_disease_detector_with_PyTorch) (Machine Learning - Independent Project)
 
 ---
 
@@ -214,6 +233,18 @@ After Week 1, you will only be evaluated on your project proposal, which must be
 ---
 
 # Managing your Repository as a Team
+
+## Initialization
+
+- ***One*** team member should create your repository.
+- Every other member should ***clone*** that repository into their local development environment (e.g. laptop).
+- ***Do not create different forks of your project.*** This will make collaboration more difficult. Instead, once the project is completed, each team member may create a fork if they wish.
+
+---
+
+# Managing your Repository as a Team
+
+## Workflow for feature development
 
 - Do not commit directly to the `main` branch!
 - Each feature should be developed in its own branch, then merged into `main` when it has been completed and tested.
@@ -261,9 +292,11 @@ Focus on the essence of what makes a README effective: clarity and conciseness. 
 
 # Writing Clear Documentation (README & Comments)
 
-While you can have multiple README files in your repository, include only one README file per folder to keep things clean and simple. This structure showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
-
-**Effective commenting enhances code readability and maintainability, crucial for collaborative environments.**
+* **While you can have multiple README files in your repository, include only one README file per folder to keep things clean and simple.**
+    * This structure showcases your ability to manage and present complex information effectively, increasing your appeal to potential employers.
+    * Creating READMEs in subfolders lets you keep your main README focused. Remember, your main README should be a summary that anyone can understand and should not take longer than ~5 minutes to read.
+    * Link to your subfolder READMEs from the main README so readers know where to go for more information.
+* **Effective commenting enhances code readability and maintainability, crucial for collaborative environments.**
 
 ---
 
@@ -306,7 +339,9 @@ console.log(totalPrice); // Output: 125
 
 * **One** person from each team must host the primary Git repository. Other team members should clone that repository to work on it.
 
-* There is no hard requirement for the folder structure of your project, but best practices should be followed.
+* There is no hard requirement for the folder structure of your project, but best practices should be followed (see [Team Project Repository](https://github.com/UofT-DSI/team_project) for examples).
+
+* Take advantage of multiple README files to keep your main README concise!
 
 ---
 
@@ -338,9 +373,9 @@ The following two weeks will fly by quickly! How will you ensure that you can ac
 
 __Day 1 (Tues):__ Content delivery, co-work.
 
-__Day 2 (Wed):__ Content delivery, co-work + standups.
+__Day 2 (Wed):__ Case study, content delivery, co-work.
 
-__Day 3 (Thurs):__ Co-work + standups.
+__Day 3 (Thurs):__ Review, co-work + standups.
 
 __Day 4 (Fri):__ Co-work.
 
@@ -352,7 +387,7 @@ __Day 5 (Sat):__ Co-work.
 
 __Day 6 (Tues):__ Content delivery, co-work + standups.
 
-__Day 7 (Wed):__ Case study, co-work + standups.
+__Day 7 (Wed):__ Co-work + standups.
 
 __Day 8 (Thurs):__ Co-work + standups.
 

@@ -18,9 +18,11 @@ $ echo "Data Sciences Institute"
 
 # Review
 
-* Yesterday, we discussed the goals of the Team Project and the value that it can bring to each of your portfolios. This is an opportunity to showcase the skills that you've learned, and your ability to apply them to a real-world problem to deliver real business value.
+* Previously, we discussed the goals of the Team Project and the value that it can bring to each of your portfolios. This is an opportunity to showcase the skills that you've learned, and your ability to apply them to a real-world problem to deliver real business value.
 
-* You should now be reasonably aligned with your team on the industry that you will be analyzing, the business question that you want to answer, and the dataset you will be using.
+* Reference the case study to think about how to communicate why your project is important, and what elements your stakeholders will care about.
+
+* How can you effectively describe a technical project to a non-technical audience?
 
 ---
 
@@ -80,9 +82,13 @@ Standups are not intended to see who has done the most work or who is slacking. 
 
 # Handling Uncertainty in Your Project
 
-Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. Spikes help us reduce uncertainty and make these decisions!
+---
+
+# Handling Uncertainty in Your Project
 
 You may explore project management methodologies like Scrum, Kanban, Waterfall, and Agile on your own. For now, we will focus on one particularly useful concept: **spikes**.
+
+Throughout your project, there will be moments when you are unsure of how to proceed, or what task to work on next. Spikes help us reduce uncertainty and make these decisions!
 
 ---
 
@@ -123,14 +129,20 @@ Setting realistic time frames for your project stages is crucial. Use S.M.A.R.T 
 
 ### Example: Customer Retention Model
 
-**Scenario**: Develop a predictive model to improve customer retention for a subscription-based service.
+**Scenario**: We work for a subscription-based service, and want to improve customer retention by understanding the causes of customer churn.
 
 - **Specific**: Machine learning model to predict customer churn using six months of user activity and demographic data.
 - **Measurable**: Target 80% accuracy on a validation set.
 - **Achievable**: Use Python’s Scikit-Learn and a marketing department dataset.
 - **Relevant**: Aligns with the company’s goal of reducing churn and improving retention.
 - **Time-bound**: Initial model version in three months, with testing and deployment in the next quarter.
+
 ---
+
+# Goals for Today
+
+---
+
 # Team Goals for Today
 
 1. Dig deeper into your business question to understand the value your will be delivering. ***Who are your stakeholders and why do they care about your project?***

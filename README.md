@@ -63,10 +63,10 @@ For other matters, you can also reach to your instructional team:
 
   * **Aditya Kulkarni** (he/him)
   aditya.kulkarni@mail.utoronto.ca
+  * **Alex Yu** (he/him)
+  alexk.yu@mail.utoronto.ca
   * **Ernani Fantinatti** (he/him)
   ernanif@fantinatti.com
-  * **Farzaneh Hashemi** (she/her)
-  fhashemi.ma@gmail.com
 
 ### Module Delivery & Expectations
 
@@ -81,12 +81,12 @@ Your project plan will be evaluated at the end of your first week, and your fini
 
 |Day 1|Day 2|Day 3|Day 4|Day 5|
 |-----|-----|-----|-----|-----|
-|Live Learning + Work Period| Live Learning + Work Period | Work Period | Work Period|Work Period|
+|Live Learning + Work Period| Case Study + Live Learning + Work Period | Review + Work Period | Work Period|Work Period|
 
 
 |Day 6|Day 7|Day 8|Day 9|Day 10|
 |-----|-----|-----|-----|-----|
-|Review + Work Period | Case Study + Work Period | Work Period | Work Period | Project Showcase |
+|Live Learning + Work Period | Work Period | Work Period | Work Period | Project Showcase |
 
 
 ## Instructions
@@ -95,7 +95,7 @@ First of all, have fun! This project is yours to get creative with. This is the 
 
 ### Repository Setup
 
-First, ***one*** team member should create a new repository for the project, which the rest of the team will clone. It doesn’t matter who creates the repository, as GitHub tracks everyone’s contributions.
+First, ***one*** team member should create a new repository for the project, which the rest of the team will ***clone*** (_do not **fork** the repository until after the project is completed_). It doesn’t matter who creates the repository, as GitHub tracks everyone’s contributions.
 
 Below is a suggested starting structure, but your team should adapt it as needed. You should structure your project in a way that makes sense for your business case, ensure it is clean, and **remove any unused files and folders**.
 
@@ -180,14 +180,14 @@ For additional insights on effective teamwork, meetings, and collaboration, chec
 
 ### Submission & Evaluation
 
-Your team must update [this document](https://docs.google.com/spreadsheets/d/1srZaFCoW4eAaUfqAgH3RIQt1rpx4OJNJh7o3yIuCs3E/edit?usp=sharing) with the links to your project repository and the dataset that you have chosen to analyze. _You will not be submitting a PR to the DSI repository to submit your project_. We will be evaluating your repository directly.
+Your team must update [this document](https://docs.google.com/spreadsheets/d/1-mEdAfl4FgEaQ7IRgaEZgd5V9CWLypWm_XxuTt1WRUM/edit?usp=sharing) with the links to your project repository and the dataset that you have chosen to analyze. _You will not be submitting a PR to the DSI repository to submit your project_. We will be evaluating your repository directly.
 
 After Week 1, you will be evaluated on your project's README file. By this point, it must include a detailed project proposal. This should include the business motivation for your project, the dataset you have chosen to use, and any risks or unknowns you have identified.
 
 Your final project will be evaluated on the following criteria after Week 2:
 
 1. Each team member must have created a pull request, and reviewed and merged a different pull request.
-2. (a) For **Data Science** teams, your project must include a visualization that presents new insights into the chosen dataset.
+2. (a) For **Data Science** teams, your project must include visualizations that present new insights into the chosen dataset.
 
    (b) For **Machine Learning** teams, your project must include a machine learning model that you have developed and implemented to obtain new insights.
 
@@ -204,7 +204,7 @@ Your final project will be evaluated on the following criteria after Week 2:
 
 ### Project Showcase
 
-* Each team will have 5 minutes to present your project during the Project Showcase on November 15th.
+* Each team will have 5 minutes to present your project during the Project Showcase on March 7th.
 
 * This is not a lot of time, so you should not try to describe every step of your project.
 
@@ -269,8 +269,10 @@ Your final project will be evaluated on the following criteria after Week 2:
 
 ### Past Participant Projects
 
-* [Bank Marketing Campaign](https://github.com/darshan-kale-dsi/Bank-Marketing-Campaign) (Machine Learning)
 * [Customer Purchasing Behaviours](https://github.com/sunshinesharon/Customer-Purchasing-Behaviors) (Data Science)
 * [Stroke Prediction](https://github.com/RuiQianSun/team7) (Machine Learning)
+* [Obesity Estimation](https://github.com/slathwal/obesity-estimation) (Machine Learning)
 * [Car Sales Analysis](https://github.com/emailmealoy/Car-Sales-Trend_DS7) (Data Science)
+* [TTC Streetcar Delay Analysis](https://github.com/namathew7/ds6) (Data Science)
 * [Insights from Bank Marketing](https://github.com/blackpearl/ML_T7_Bank-Marketing) (Machine Learning)
+* [Tomato Disease Predictor](https://github.com/imdwipayana/tomato_disease_detector_with_PyTorch) (Machine Learning - Independent Project)
