@@ -81,12 +81,12 @@ Your project plan will be evaluated at the end of your first week, and your fini
 
 |Day 1|Day 2|Day 3|Day 4|Day 5|
 |-----|-----|-----|-----|-----|
-|Live Learning + Work Period| Case Study + Work Period | Live Learning + Work Period | Work Period|Work Period|
+|Live Learning + Work Period| Case Study + Live Learning + Work Period | Review + Work Period | Work Period|Work Period|
 
 
 |Day 6|Day 7|Day 8|Day 9|Day 10|
 |-----|-----|-----|-----|-----|
-|Review + Work Period | Work Period | Work Period | Work Period | Project Showcase |
+|Live Learning + Work Period | Work Period | Work Period | Work Period | Project Showcase |
 
 
 ## Instructions
